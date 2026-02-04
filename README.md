@@ -4,3 +4,5 @@ Information Systems and Technology Major
 Spring Semester 2026  
  
 <b> This repository contains coursework and projects for CIS 3902. </b>
+
+<a href="https://github.com/plthomps/CIS-3902-Data-Mining/blob/main/Reading_Files_in_Colab_with_Jupyter_Notebook.ipynb">Reading Various Types of Files in Colab</a><br>
