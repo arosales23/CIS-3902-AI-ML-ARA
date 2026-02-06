@@ -10,3 +10,5 @@ Spring Semester 2026
 <a href="https://github.com/arosales23/CIS-3902-AI-ML-ARA/blob/main/Linear_Regression_Example_with_the_Housing_Data.ipynb"> Linear Regression Example with the Housing Data
 
 <a href="https://github.com/arosales23/CIS-3902-AI-ML-ARA/blob/main/bias_variance_overfitting_fertilizer_crop_yield_starter.ipynb">Bias Variance Overfitting Fertilizer Crop Yeild Starter
+
+<a href="https://github.com/arosales23/CIS-3902-AI-ML-ARA/blob/main/regularization.ipynb">Regularization
