@@ -13,5 +13,5 @@ Spring Semester 2026
 
 <a href="https://github.com/arosales23/CIS-3902-AI-ML-ARA/blob/main/regularization.ipynb">Regularization</a>
 
-<a href="https://github.com/arosales23/CIS-3902-AI-ML-ARA/blob/main/Data_Cleaning_Exercise_Tutorial.ipynb">Data Cleaning Exercise Tutorial<a/>
+<a href="https://github.com/arosales23/CIS-3902-AI-ML-ARA/blob/main/Data_Cleaning_Exercise_Tutorial.ipynb">Data Cleaning Exercise Tutorial<a/><br>
 <a href="https://github.com/arosales23/CIS-3902-AI-ML-ARA/blob/main/Data_Cleaning_Exercise_Class.ipynb">Data Cleaning Exercise Activity</a>
