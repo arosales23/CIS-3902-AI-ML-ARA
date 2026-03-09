@@ -16,5 +16,5 @@ Spring Semester 2026
 <a href="https://github.com/arosales23/CIS-3902-AI-ML-ARA/blob/main/Data_Cleaning_Exercise_Tutorial.ipynb">Data Cleaning Exercise Tutorial<a/><br>
 <a href="https://github.com/arosales23/CIS-3902-AI-ML-ARA/blob/main/Data_Cleaning_Exercise_Class.ipynb">Data Cleaning Exercise Activity</a>
 
-<a href="https://github.com/arosales23/CIS-3902-AI-ML-ARA/blob/main/titanic_decision_tree.ipynb">Decision Tree Titanic Example</a>
+<a href="https://github.com/arosales23/CIS-3902-AI-ML-ARA/blob/main/titanic_decision_tree.ipynb">Decision Tree Titanic Example</a><br>
 <a href="https://github.com/arosales23/CIS-3902-AI-ML-ARA/blob/main/Mushroom_Reduced_Student.ipynb">Decision Tree Mushroom Activity</a>
