@@ -19,4 +19,6 @@ Spring Semester 2026
 <a href="https://github.com/arosales23/CIS-3902-AI-ML-ARA/blob/main/titanic_decision_tree.ipynb">Decision Tree Titanic Example</a><br>
 <a href="https://github.com/arosales23/CIS-3902-AI-ML-ARA/blob/main/Mushroom_Reduced_Student.ipynb">Decision Tree Mushroom Activity</a>
 
-<a href="https://github.com/arosales23/CIS-3902-AI-ML-ARA/blob/main/random_forest_crime_assignment_(1).ipynb">Random Forest Crime Dataset Assignment</a>
+<a href="https://github.com/arosales23/CIS-3902-AI-ML-ARA/blob/main/random_forest_crime_assignment_(1).ipynb">Random Forest Crime Dataset Assignment</a><br>
+
+<a href="Autoviz_(3).ipynb">AutoViz with Tips & Titanic Datasets</a><br>
