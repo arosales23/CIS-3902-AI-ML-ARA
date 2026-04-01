@@ -22,3 +22,5 @@ Spring Semester 2026
 <a href="https://github.com/arosales23/CIS-3902-AI-ML-ARA/blob/main/random_forest_crime_assignment_(1).ipynb">Random Forest Crime Dataset Assignment</a><br>
 
 <a href="Autoviz_(3).ipynb">AutoViz with Tips & Titanic Datasets</a><br>
+
+<a href="cohens_kappa_ml_notebook_(1).ipynb">Cohen's Kappa in Machine Learning<a><br>
